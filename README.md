@@ -1,5 +1,4 @@
-# Prosi
-Procy Sariaya Agri Marketplace Prototype
+# Procy Sariaya Agri Marketplace Website Prototype
 
 Overview:
 Welcome to the prototype of our business solution web application, designed to serve as an online platform to assist individuals involved in buying and selling agricultural products, specifically within the Procy Sariaya area.
